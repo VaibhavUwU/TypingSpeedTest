@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TypingSpeedTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD9BF14B3FBC4EEDA4C990F7B20FDA14 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB7F176F6B5047D6BA4DC8CF5E5AC44C }}

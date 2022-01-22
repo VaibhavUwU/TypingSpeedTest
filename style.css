@@ -107,5 +107,10 @@ color: #3c4354da;
 
 }
 ::-webkit-scrollbar {
+<<<<<<< HEAD
   display: none;
   }
+=======
+display: none;
+}
+>>>>>>> 498f7f5ea1dbb1dfa2043a53f347d32fe9cfb0c7

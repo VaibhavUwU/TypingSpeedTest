@@ -106,3 +106,6 @@ color: #3c4354da;
   background-color: #d65b5b;
 
 }
+::-webkit-scrollbar {
+display: none;
+}
